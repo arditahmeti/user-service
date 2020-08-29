@@ -14,7 +14,7 @@ mvn clean install
 Build the user service container: 
 
 ```
-docker build -t user-service.
+docker build -t user-service .
 ```
 
 Run postgres and user service containers as detached:
