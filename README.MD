@@ -22,3 +22,6 @@ Run postgres and user service containers as detached:
 ```
 docker-compose up -d
 ```
+
+## Then finally test the application
+Go to [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) to see the documentation.
